@@ -1,10 +1,13 @@
-
-
 import java.io.*;
 import java.net.*;
 import java.util.*;
 import org.json.*;
 
+/*	parse url json from 內政部房屋交易
+ * 	for each json object, check its area , road and year
+ * 	if this object satisfy this condition
+ * 	add its price of this deal to sum and count+1
+ */ 
 public class TocHW3 {
 	/**
 	 * @param args
