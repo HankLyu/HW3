@@ -8,7 +8,7 @@ import org.json.*;
  * 	if this object satisfy this condition
  * 	add its price of this deal to sum and count+1
  */ 
-public class TocHw3 {
+public class TocHW3 {
 	/**
 	 * @param args
 	 * @throws JSONException 
